@@ -1,10 +1,10 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
 
-// const Employee = require("./Employee");
-// const Engineer = require("./Engineer");
-// const Intern = require("./Intern");
-// const Manager = require("./Manager");
+const Employee = require("./Employee");
+const Engineer = require("./Engineer");
+const Intern = require("./Intern");
+const Manager = require("./Manager");
 
 
 
